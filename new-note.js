@@ -25,3 +25,5 @@ id: ........ ${formatDateTimeUUID(new Date())}
 ---`;
 	editor.setText(text);
 }
+
+setNewNote();
